@@ -239,7 +239,7 @@ MaxLevel<32>
 Unk0<32>
 Unk1<32>
 Unk2<32>
-Unk3<32>
+int<AreaTable::ID> AreaTableID
 MapDescription0_lang
 MapDescription1_lang
 Unk4<32>
